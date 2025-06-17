@@ -25,7 +25,8 @@
 | `Strompreise_Halbjahre_getrennt.csv` | Aufbereitete Stromdaten pro Halbjahr |
 | `Kaltmieten.png` | Visualisierung der Mietkosten |
 | `Strompreise_2015_2024_Halbjahre.png` | Visualisierung der Strompreise |
-| `README.md` | Diese Beschreibung |
+| `statistischer-bericht-energiepreisentwicklung-5619001.xlsx` | Offizielle Excel-Datei mit Strompreisen (siehe Blatt `61241-15`) |
+
 
 ## 📎 Quellen
 - Statistisches Bundesamt (Destatis)
