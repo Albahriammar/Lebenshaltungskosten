@@ -35,7 +35,5 @@
 Alle Schritte sind transparent und nachvollziehbar dokumentiert. Die Diagramme und Tabellen können für weitere wissenschaftliche Zwecke verwendet werden.
 
 ---
-
 **Name:** Ammar Albarhi  
-**Hochschule:** HTW Berlin  
-**Modul:** Datenanalyse / Seminararbeit
+
